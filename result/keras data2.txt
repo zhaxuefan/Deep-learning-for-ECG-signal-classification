@@ -1,0 +1,22 @@
+1: val_loss: 0.6836 - val_acc: 0.6000
+2:- val_loss: 0.5933 - val_acc: 0.6060
+3: val_loss: 0.4637 - val_acc: 0.8260
+4: val_loss: 0.4053 - val_acc: 0.8500
+5:- val_loss: 0.3456 - val_acc: 0.8710
+6:- val_loss: 0.3025 - val_acc: 0.8750
+7: - val_loss: 0.2697 - val_acc: 0.8870
+8: - val_loss: 0.2471 - val_acc: 0.9030
+9: - val_loss: 0.2308 - val_acc: 0.9070
+10:- val_loss: 0.2128 - val_acc: 0.9240
+11: - val_loss: 0.2021 - val_acc: 0.9220
+12:- val_loss: 0.1912 - val_acc: 0.9280
+13: - val_loss: 0.2304 - val_acc: 0.9200
+14:- val_loss: 0.1723 - val_acc: 0.9390
+15:- val_loss: 0.1608 - val_acc: 0.9450
+16:- val_loss: 0.1561 - val_acc: 0.9470
+17:- val_loss: 0.1611 - val_acc: 0.9460
+18: - val_loss: 0.1559 - val_acc: 0.9500
+19:- val_loss: 0.1430 - val_acc: 0.9500
+20:- val_loss: 0.1422 - val_acc: 0.9490
+Test loss: 0.142245326877
+Test accuracy: 0.949

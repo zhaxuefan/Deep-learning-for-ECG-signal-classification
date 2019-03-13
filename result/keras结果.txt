@@ -1,0 +1,14 @@
+epoch1:loss: 0.6310 - acc: 0.6744 - val_loss: 0.8018 - val_acc: 0.5000
+epoch2: loss: 0.5803 - acc: 0.6905 - val_loss: 0.5757 - val_acc: 0.7460
+epoch3:loss: 0.4804 - acc: 0.7931 - val_loss: 0.4476 - val_acc: 0.8620
+epoch4: loss: 0.4196 - acc: 0.8318 - val_loss: 0.3897 - val_acc: 0.8670
+epoch5:loss: 0.3719 - acc: 0.8535 - val_loss: 0.3710 - val_acc: 0.8630
+epoch6:loss: 0.3272 - acc: 0.8679 - val_loss: 0.3045 - val_acc: 0.8760
+epoch7:loss: 0.2906 - acc: 0.8831 - val_loss: 0.2669 - val_acc: 0.8800
+epoch8:loss: 0.2633 - acc: 0.8968 - val_loss: 0.2355 - val_acc: 0.8860
+epoch9:loss: 0.2385 - acc: 0.9060 - val_loss: 0.1999 - val_acc: 0.9260
+epoch10: loss: 0.2142 - acc: 0.9247 - val_loss: 0.1913 - val_acc: 0.9160
+epoch11:loss: 0.2023 - acc: 0.9263 - val_loss: 0.1665 - val_acc: 0.9390
+epoch12:loss: 0.1825 - acc: 0.9371 - val_loss: 0.1440 - val_acc: 0.9530
+Test loss: 0.144038340896
+Test accuracy: 0.953

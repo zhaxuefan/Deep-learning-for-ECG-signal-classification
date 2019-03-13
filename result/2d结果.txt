@@ -1,0 +1,12 @@
+val_loss: 0.5698 - val_acc: 0.7390
+ val_loss: 0.4781 - val_acc: 0.8120
+ val_loss: 0.4562 - val_acc: 0.8300
+ - val_loss: 0.4491 - val_acc: 0.8520
+ val_loss: 0.4434 - val_acc: 0.8570
+val_loss: 0.4420 - val_acc: 0.8590
+val_loss: 0.4519 - val_acc: 0.8660
+ val_loss: 0.4434 - val_acc: 0.8670
+- val_loss: 0.4786 - val_acc: 0.8680
+
+Test loss: 0.478647943825
+Test accuracy: 0.868
