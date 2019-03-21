@@ -4,7 +4,7 @@
 """
 Created on Mon Oct 16 21:00:54 2017
 
-@author: Shawn Yuen
+@author: Nancy
 """
 
 from __future__ import print_function
